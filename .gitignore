@@ -1,1 +1,5 @@
-.venv
+.venv/
+cy.exe
+file.exe
+metro.exe
+thekey.key
